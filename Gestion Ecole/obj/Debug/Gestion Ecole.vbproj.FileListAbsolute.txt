@@ -1,0 +1,30 @@
+D:\Cous 2022-2023\ETEC\2 TSDI\EDI\Gestion Ecole\Gestion Ecole\bin\Debug\Gestion Ecole.exe.config
+D:\Cous 2022-2023\ETEC\2 TSDI\EDI\Gestion Ecole\Gestion Ecole\bin\Debug\Gestion Ecole.exe
+D:\Cous 2022-2023\ETEC\2 TSDI\EDI\Gestion Ecole\Gestion Ecole\bin\Debug\Gestion Ecole.pdb
+D:\Cous 2022-2023\ETEC\2 TSDI\EDI\Gestion Ecole\Gestion Ecole\bin\Debug\Gestion Ecole.xml
+D:\Cous 2022-2023\ETEC\2 TSDI\EDI\Gestion Ecole\Gestion Ecole\obj\Debug\Gestion Ecole.vbproj.AssemblyReference.cache
+D:\Cous 2022-2023\ETEC\2 TSDI\EDI\Gestion Ecole\Gestion Ecole\obj\Debug\Gestion_Ecole.Form1.resources
+D:\Cous 2022-2023\ETEC\2 TSDI\EDI\Gestion Ecole\Gestion Ecole\obj\Debug\Gestion_Ecole.Resources.resources
+D:\Cous 2022-2023\ETEC\2 TSDI\EDI\Gestion Ecole\Gestion Ecole\obj\Debug\Gestion Ecole.vbproj.GenerateResource.cache
+D:\Cous 2022-2023\ETEC\2 TSDI\EDI\Gestion Ecole\Gestion Ecole\obj\Debug\Gestion Ecole.vbproj.CoreCompileInputs.cache
+D:\Cous 2022-2023\ETEC\2 TSDI\EDI\Gestion Ecole\Gestion Ecole\obj\Debug\Gestion Ecole.exe
+D:\Cous 2022-2023\ETEC\2 TSDI\EDI\Gestion Ecole\Gestion Ecole\obj\Debug\Gestion Ecole.xml
+D:\Cous 2022-2023\ETEC\2 TSDI\EDI\Gestion Ecole\Gestion Ecole\obj\Debug\Gestion Ecole.pdb
+D:\Cous 2022-2023\ETEC\2 TSDI\EDI\Gestion Ecole\Gestion Ecole\obj\Debug\Gestion_Ecole.FrmApropos.resources
+D:\Cous 2022-2023\ETEC\2 TSDI\EDI\Gestion Ecole\Gestion Ecole\obj\Debug\Gestion_Ecole.Frm_Principale.resources
+D:\Cous 2022-2023\ETEC\2 TSDI\EDI\Gestion Ecole\Gestion Ecole\obj\Debug\Gestion_Ecole.Frm_Liste_Etudiants.resources
+C:\Users\ahmed\Desktop\Gestion Ecole\Gestion Ecole\bin\Debug\Gestion Ecole.exe.config
+C:\Users\ahmed\Desktop\Gestion Ecole\Gestion Ecole\bin\Debug\Gestion Ecole.exe
+C:\Users\ahmed\Desktop\Gestion Ecole\Gestion Ecole\bin\Debug\Gestion Ecole.pdb
+C:\Users\ahmed\Desktop\Gestion Ecole\Gestion Ecole\bin\Debug\Gestion Ecole.xml
+C:\Users\ahmed\Desktop\Gestion Ecole\Gestion Ecole\obj\Debug\Gestion Ecole.vbproj.AssemblyReference.cache
+C:\Users\ahmed\Desktop\Gestion Ecole\Gestion Ecole\obj\Debug\Gestion_Ecole.Form1.resources
+C:\Users\ahmed\Desktop\Gestion Ecole\Gestion Ecole\obj\Debug\Gestion_Ecole.FrmApropos.resources
+C:\Users\ahmed\Desktop\Gestion Ecole\Gestion Ecole\obj\Debug\Gestion_Ecole.Frm_Liste_Etudiants.resources
+C:\Users\ahmed\Desktop\Gestion Ecole\Gestion Ecole\obj\Debug\Gestion_Ecole.Frm_Principale.resources
+C:\Users\ahmed\Desktop\Gestion Ecole\Gestion Ecole\obj\Debug\Gestion_Ecole.Resources.resources
+C:\Users\ahmed\Desktop\Gestion Ecole\Gestion Ecole\obj\Debug\Gestion Ecole.vbproj.GenerateResource.cache
+C:\Users\ahmed\Desktop\Gestion Ecole\Gestion Ecole\obj\Debug\Gestion Ecole.vbproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\Gestion Ecole\Gestion Ecole\obj\Debug\Gestion Ecole.exe
+C:\Users\ahmed\Desktop\Gestion Ecole\Gestion Ecole\obj\Debug\Gestion Ecole.xml
+C:\Users\ahmed\Desktop\Gestion Ecole\Gestion Ecole\obj\Debug\Gestion Ecole.pdb
